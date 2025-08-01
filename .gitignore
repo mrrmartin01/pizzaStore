@@ -1,0 +1,66 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+*.dll
+*.exe
+*.app
+*.log
+*.pdb
+*.cache
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.zip
+*.vsix
+
+## Rider
+.idea/
+
+## VS Code
+.vscode/
+
+## Visual Studio
+.vs/
+
+## ASP.NET Core
+appsettings.Development.json
+appsettings.Production.json
+appsettings.*.json
+appsettings.json
+launchSettings.json
+
+## User secrets (if using dotnet user-secrets)
+secrets.json
+
+## Entity Framework
+*.mdf
+*.ldf
+
+## NuGet
+*.nupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+
+## Logs
+*.log
+
+## Environment files
+.env
+.env.*
+
+## OS-specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+## Others
+*.tsbuildinfo
